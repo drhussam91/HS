@@ -35,7 +35,12 @@
 	.social-link{ margin:0;}
 
 	.main-nav{ display:block !important; }
-	.main-nav li a{ padding:8px 15px;}
+	.main-nav li a{ padding:7px 7px; margin: 7px 7px;}
+	 nav .container{
+		
+			 padding-right: 1px; 
+			 padding-left: 1px
+	}
 	/*.portfolioContainer{ width:750px; margin:0px auto !important; }
 	.Portfolio-box{ height:250px;}*/
 
